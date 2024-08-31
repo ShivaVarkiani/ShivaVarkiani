@@ -29,13 +29,12 @@
 
 ### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github.com/ShivaVarkiani/ShivaVarkiani/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
+  <img src="https://github.com/ShivaVarkiani/ShivaVarkiani/blob/output/snake.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ### 📫 Let's Connect:
 - 📧 [Email Me](mailto:shivavarkiany@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/shiva-varkiani-1a394a168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-varkiani-1a394a168)
 
 ---
 
