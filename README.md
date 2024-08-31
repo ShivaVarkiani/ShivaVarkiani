@@ -9,7 +9,6 @@
 ### 🌱 About Me:
 - 🔭 I’m currently learning **Python, JavaScript, HTML, and CSS**.
 - 🌟 I’m passionate about **Web Development** and **Creative Design**.
-- 💌 How to reach me: **shivavarkiany@gmail.com**
 - 😄 Pronouns: **She/Her**
   
 ### 🎨 My Tech Stack:
