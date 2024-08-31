@@ -35,11 +35,8 @@
 
 ### 📫 Let's Connect:
 - 📧 [Email Me](mailto:shivavarkiany@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) *(Add your LinkedIn URL)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/shiva-varkiani-1a394a168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 
-### 🌐 Find Me Online:
-- 🌎 [Portfolio](https://yourportfolio.com) *(Add your portfolio URL)*
-- 🐦 [Twitter](https://twitter.com/yourtwitter) *(Add your Twitter URL)*
 
 ---
 
