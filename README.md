@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ShivaVarkiani
 - 🌱 I’m currently learning python, javascript html and css.
 - 📫 How to reach me "shivavarkiany@gmail.com"
-- 😄 Pronouns: she her
-### ⏳ Countdown to My Birthday
-
-[![Countdown](https://countdown.onlineclock.net?time=2024-12-01T00:00:00Z)](https://yourwebsite.com)
+- 😄 Pronouns: she her[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 
 
