@@ -2,7 +2,7 @@
 -  🌱 I’m currently learning python, javascript html and css.
 - 📫 How to reach me "shivavarkiany@gmail.com"
 - 😄 Pronouns: she her
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaVarkiani&show_icons=true&theme=radical)](https://github.com/yourusername)
+![GitHub Contribution Graph](https://github.com/ShivaVarkiani/ShivaVarkiani/blob/main/github-contribution-grid-snake.svg)
 
 
 
