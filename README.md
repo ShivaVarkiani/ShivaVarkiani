@@ -1,5 +1,4 @@
--<h2 align="center">Hi there, I'm Shiva <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
+<h2 align="center">Hi there, I'm Shiva <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 -  🌱 I’m currently learning python, javascript html and css.
 - 📫 How to reach me "shivavarkiany@gmail.com"
 - 😄 Pronouns: she her
