@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Shiva! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi there, I'm Shiva! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+and+Designer;Love+to+Code+and+Create;Currently+Learning+Python%2C+JS%2C+HTML+%26+CSS!" alt="Typing SVG" />
