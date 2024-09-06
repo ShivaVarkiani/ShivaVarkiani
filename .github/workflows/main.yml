@@ -1,31 +1,25 @@
 name: Generate Snake Animation
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  
-# This is the sequence of jobs that will run as part of the action
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks out a copy of your repository's code
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Generates the snake
-      - name: Generate Snake
+      - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
           github_user_name: ShivaVarkiani
           outputs: dist/snake.svg
 
-      # Pushes the generated snake.svg to the output branch
-      # The output branch can be any branch you choose
-      - name: Push Snake
+      - name: Deploy Snake animation to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
