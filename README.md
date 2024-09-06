@@ -27,10 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaVarkiani&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://github.com/ShivaVarkiani/ShivaVarkiani/raw/output/snake.svg" alt="Snake animation" />
-</p>
 
 ### 📫 Let's Connect:
 - 📧 [Email Me](mailto:shivavarkiany@gmail.com)
