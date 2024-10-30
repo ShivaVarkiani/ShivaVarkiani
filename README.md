@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning **Python, JavaScript, HTML, and CSS**.
 - 🌟 I’m passionate about **Web Development** and **Creative Design**.
 - 😄 Pronouns: **She/Her**
-  
+   
 ### 🎨 My Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
